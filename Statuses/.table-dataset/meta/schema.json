@@ -1,0 +1,1 @@
+[{"id": "6cf37390-b89a-4a2a-b291-4a3e04c3cd7d", "name": "fid", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "e8c527aa-6d7f-6fc0-a806-f4325c538956", "name": "uuid", "dataType": "text"}, {"id": "b63d9b8e-17e0-ed49-8eb9-2ca97f57c53b", "name": "code", "dataType": "text"}, {"id": "21818c52-f235-c9a5-e055-7f8f4dec12cb", "name": "description", "dataType": "text"}]

@@ -1,0 +1,1071 @@
+’Ù(601a160df31b49faf33c615a8bf55525b1b89698œ  §Species §SpeciesÚÖ+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" autoRefreshMode="Disabled" version="3.40.6-Bratislava" minScale="1e+08" readOnly="0" maxScale="0" autoRefreshTime="0">
+ <flags>
+  <Identifiable>1</Identifiable>
+  <Removable>1</Removable>
+  <Searchable>1</Searchable>
+  <Private>0</Private>
+ </flags>
+ <temporal limitMode="0" startExpression="" fixedDuration="0" endExpression="" accumulate="0" enabled="0" startField="" durationField="" durationUnit="min" mode="0" endField="">
+  <fixedRange>
+   <start></start>
+   <end></end>
+  </fixedRange>
+ </temporal>
+ <elevation extrusion="0" clamping="Terrain" zoffset="0" showMarkerSymbolInSurfacePlots="0" binding="Centroid" zscale="1" symbology="Line" extrusionEnabled="0" type="IndividualFeatures" respectLayerSymbol="1">
+  <data-defined-properties>
+   <Option type="Map">
+    <Option name="name" value="" type="QString"/>
+    <Option name="properties"/>
+    <Option name="type" value="collection" type="QString"/>
+   </Option>
+  </data-defined-properties>
+  <profileLineSymbol>
+   <symbol name="" is_animated="0" clip_to_extent="1" force_rhr="0" frame_rate="10" alpha="1" type="line">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+    <layer locked="0" class="SimpleLine" enabled="1" id="{3138c093-d18c-4c72-8259-322895ddd4ce}" pass="0">
+     <Option type="Map">
+      <Option name="align_dash_pattern" value="0" type="QString"/>
+      <Option name="capstyle" value="square" type="QString"/>
+      <Option name="customdash" value="5;2" type="QString"/>
+      <Option name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="customdash_unit" value="MM" type="QString"/>
+      <Option name="dash_pattern_offset" value="0" type="QString"/>
+      <Option name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="dash_pattern_offset_unit" value="MM" type="QString"/>
+      <Option name="draw_inside_polygon" value="0" type="QString"/>
+      <Option name="joinstyle" value="bevel" type="QString"/>
+      <Option name="line_color" value="190,207,80,255,rgb:0.74509803921568629,0.81176470588235294,0.31372549019607843,1" type="QString"/>
+      <Option name="line_style" value="solid" type="QString"/>
+      <Option name="line_width" value="0.6" type="QString"/>
+      <Option name="line_width_unit" value="MM" type="QString"/>
+      <Option name="offset" value="0" type="QString"/>
+      <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="offset_unit" value="MM" type="QString"/>
+      <Option name="ring_filter" value="0" type="QString"/>
+      <Option name="trim_distance_end" value="0" type="QString"/>
+      <Option name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="trim_distance_end_unit" value="MM" type="QString"/>
+      <Option name="trim_distance_start" value="0" type="QString"/>
+      <Option name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="trim_distance_start_unit" value="MM" type="QString"/>
+      <Option name="tweak_dash_pattern_on_corners" value="0" type="QString"/>
+      <Option name="use_custom_dash" value="0" type="QString"/>
+      <Option name="width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+     </Option>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </profileLineSymbol>
+  <profileFillSymbol>
+   <symbol name="" is_animated="0" clip_to_extent="1" force_rhr="0" frame_rate="10" alpha="1" type="fill">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+    <layer locked="0" class="SimpleFill" enabled="1" id="{14977347-9f43-432e-abdf-745cc2e40184}" pass="0">
+     <Option type="Map">
+      <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="color" value="190,207,80,255,rgb:0.74509803921568629,0.81176470588235294,0.31372549019607843,1" type="QString"/>
+      <Option name="joinstyle" value="bevel" type="QString"/>
+      <Option name="offset" value="0,0" type="QString"/>
+      <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="offset_unit" value="MM" type="QString"/>
+      <Option name="outline_color" value="136,148,57,255,rgb:0.53333333333333333,0.58039215686274515,0.22352941176470589,1" type="QString"/>
+      <Option name="outline_style" value="solid" type="QString"/>
+      <Option name="outline_width" value="0.2" type="QString"/>
+      <Option name="outline_width_unit" value="MM" type="QString"/>
+      <Option name="style" value="solid" type="QString"/>
+     </Option>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </profileFillSymbol>
+  <profileMarkerSymbol>
+   <symbol name="" is_animated="0" clip_to_extent="1" force_rhr="0" frame_rate="10" alpha="1" type="marker">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+    <layer locked="0" class="SimpleMarker" enabled="1" id="{7d6f8132-5ab5-4b84-8f0b-34ee0b7dc93c}" pass="0">
+     <Option type="Map">
+      <Option name="angle" value="0" type="QString"/>
+      <Option name="cap_style" value="square" type="QString"/>
+      <Option name="color" value="190,207,80,255,rgb:0.74509803921568629,0.81176470588235294,0.31372549019607843,1" type="QString"/>
+      <Option name="horizontal_anchor_point" value="1" type="QString"/>
+      <Option name="joinstyle" value="bevel" type="QString"/>
+      <Option name="name" value="diamond" type="QString"/>
+      <Option name="offset" value="0,0" type="QString"/>
+      <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="offset_unit" value="MM" type="QString"/>
+      <Option name="outline_color" value="136,148,57,255,rgb:0.53333333333333333,0.58039215686274515,0.22352941176470589,1" type="QString"/>
+      <Option name="outline_style" value="solid" type="QString"/>
+      <Option name="outline_width" value="0.2" type="QString"/>
+      <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="outline_width_unit" value="MM" type="QString"/>
+      <Option name="scale_method" value="diameter" type="QString"/>
+      <Option name="size" value="3" type="QString"/>
+      <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="size_unit" value="MM" type="QString"/>
+      <Option name="vertical_anchor_point" value="1" type="QString"/>
+     </Option>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </profileMarkerSymbol>
+ </elevation>
+ <customproperties>
+  <Option type="Map">
+   <Option name="QFieldSync/action" value="copy" type="QString"/>
+   <Option name="QFieldSync/attachment_naming" value="{&quot;photo&quot;: &quot;'files/species_' || format_date(now(),'yyyyMMddhhmmsszzz') || '_{filename}'&quot;}" type="QString"/>
+   <Option name="QFieldSync/cloud_action" value="offline" type="QString"/>
+   <Option name="QFieldSync/geometry_locked_expression" type="invalid"/>
+   <Option name="QFieldSync/photo_naming" value="{&quot;photo&quot;: &quot;'files/species_' || format_date(now(),'yyyyMMddhhmmsszzz') || '_{filename}'&quot;}" type="QString"/>
+   <Option name="QFieldSync/relationship_maximum_visible" value="{}" type="QString"/>
+   <Option name="QFieldSync/tracking_distance_requirement_minimum_meters" value="30" type="int"/>
+   <Option name="QFieldSync/tracking_erroneous_distance_safeguard_maximum_meters" value="1" type="int"/>
+   <Option name="QFieldSync/tracking_measurement_type" value="0" type="int"/>
+   <Option name="QFieldSync/tracking_time_requirement_interval_seconds" value="30" type="int"/>
+   <Option name="QFieldSync/value_map_button_interface_threshold" value="0" type="int"/>
+   <Option name="dualview/previewExpressions" type="List">
+    <Option value="COALESCE(if(date=format_date(now(),'yyyy-MM-dd'), substr(represent_value(&quot;name&quot;),1,20) || '  ' || cover_estimate || '%', note ), date || ': ' || name || ': ' || cover_estimate|| '%' )" type="QString"/>
+   </Option>
+   <Option name="embeddedWidgets/count" value="0" type="int"/>
+   <Option name="variableNames" type="invalid"/>
+   <Option name="variableValues" type="invalid"/>
+  </Option>
+ </customproperties>
+ <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+  <activeChecks type="StringList">
+   <Option value="" type="QString"/>
+  </activeChecks>
+  <checkConfiguration/>
+ </geometryOptions>
+ <legend showLabelLegend="0" type="default-vector"/>
+ <fieldConfiguration>
+  <field name="fid" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="name" configurationFlags="NoFlag">
+   <editWidget type="ValueRelation">
+    <config>
+     <Option type="Map">
+      <Option name="AllowMulti" value="false" type="bool"/>
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Description" value="&quot;Common Name&quot;" type="QString"/>
+      <Option name="FilterExpression" type="invalid"/>
+      <Option name="Key" value="Scientific Name" type="QString"/>
+      <Option name="Layer" value="usda_nj_searchresults_7c32941e_ce5b_4012_bc75_c855d477d690" type="QString"/>
+      <Option name="LayerName" value="PlantList" type="QString"/>
+      <Option name="LayerProviderName" value="ogr" type="QString"/>
+      <Option name="LayerSource" value="/home/pmgreen/QField/cloud/riparian_east_botanical_survey/PlantList.gpkg|layername=usda_nj_searchresults" type="QString"/>
+      <Option name="NofColumns" value="1" type="int"/>
+      <Option name="OrderByValue" value="false" type="bool"/>
+      <Option name="UseCompleter" value="true" type="bool"/>
+      <Option name="Value" value="Common Name" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="cover_estimate" configurationFlags="NoFlag">
+   <editWidget type="Range">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Max" value="100" type="int"/>
+      <Option name="Min" value="0" type="int"/>
+      <Option name="Precision" value="0" type="int"/>
+      <Option name="Step" value="10" type="int"/>
+      <Option name="Style" value="SpinBox" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="date" configurationFlags="NoFlag">
+   <editWidget type="DateTime">
+    <config>
+     <Option type="Map">
+      <Option name="allow_null" value="false" type="bool"/>
+      <Option name="calendar_popup" value="false" type="bool"/>
+      <Option name="display_format" value="yyyy-MM-dd" type="QString"/>
+      <Option name="field_format" value="yyyy-MM-dd" type="QString"/>
+      <Option name="field_format_overwrite" value="false" type="bool"/>
+      <Option name="field_iso_format" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="planted" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="blooms" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="saplings" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="survey_uuid" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="scientific_name" configurationFlags="NoFlag">
+   <editWidget type="ValueRelation">
+    <config>
+     <Option type="Map">
+      <Option name="AllowMulti" value="false" type="bool"/>
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Description" value="&quot;Scientific Name&quot;" type="QString"/>
+      <Option name="FilterExpression" type="invalid"/>
+      <Option name="Key" value="Scientific Name" type="QString"/>
+      <Option name="Layer" value="usda_nj_searchresults_7c32941e_ce5b_4012_bc75_c855d477d690" type="QString"/>
+      <Option name="LayerName" value="PlantList" type="QString"/>
+      <Option name="LayerProviderName" value="ogr" type="QString"/>
+      <Option name="LayerSource" value="/home/pmgreen/QField/cloud/riparian_east_botanical_survey/PlantList.gpkg|layername=usda_nj_searchresults" type="QString"/>
+      <Option name="NofColumns" value="1" type="int"/>
+      <Option name="OrderByValue" value="false" type="bool"/>
+      <Option name="UseCompleter" value="true" type="bool"/>
+      <Option name="Value" value="Scientific Name" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="unsure" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="photo" configurationFlags="NoFlag">
+   <editWidget type="ExternalResource">
+    <config>
+     <Option type="Map">
+      <Option name="DefaultRoot" value="@project_home + '/DCIM'" type="QString"/>
+      <Option name="DocumentViewer" value="1" type="int"/>
+      <Option name="DocumentViewerHeight" value="0" type="int"/>
+      <Option name="DocumentViewerWidth" value="0" type="int"/>
+      <Option name="FileWidget" value="true" type="bool"/>
+      <Option name="FileWidgetButton" value="true" type="bool"/>
+      <Option name="FileWidgetFilter" type="invalid"/>
+      <Option name="PropertyCollection" type="Map">
+       <Option name="name" type="invalid"/>
+       <Option name="properties" type="invalid"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+      <Option name="RelativeStorage" value="1" type="int"/>
+      <Option name="StorageAuthConfigId" type="invalid"/>
+      <Option name="StorageMode" value="0" type="int"/>
+      <Option name="StorageType" type="invalid"/>
+      <Option name="UseLink" value="true" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="note" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="fruits" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="seeds" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="stump_sprout" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="stem_count" configurationFlags="NoFlag">
+   <editWidget type="Range">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Max" value="100" type="int"/>
+      <Option name="Min" value="1" type="int"/>
+      <Option name="Precision" value="0" type="int"/>
+      <Option name="Step" value="1" type="int"/>
+      <Option name="Style" value="SpinBox" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="plant_status" configurationFlags="NoFlag">
+   <editWidget type="ValueMap">
+    <config>
+     <Option type="Map">
+      <Option name="map" type="List">
+       <Option type="Map">
+        <Option name="dead" value="0" type="QString"/>
+       </Option>
+       <Option type="Map">
+        <Option name="sad" value="1" type="QString"/>
+       </Option>
+       <Option type="Map">
+        <Option name="ok" value="2" type="QString"/>
+       </Option>
+       <Option type="Map">
+        <Option name="thriving" value="3" type="QString"/>
+       </Option>
+       <Option type="Map">
+        <Option name="not present" value="4" type="QString"/>
+       </Option>
+      </Option>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_transect" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_subplot" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_status" configurationFlags="NoFlag">
+   <editWidget type="ValueRelation">
+    <config>
+     <Option type="Map">
+      <Option name="AllowMulti" value="false" type="bool"/>
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Description" value="&quot;description&quot;" type="QString"/>
+      <Option name="FilterExpression" type="invalid"/>
+      <Option name="Key" value="description" type="QString"/>
+      <Option name="Layer" value="Statuses_eb2d4414_aa5f_4d35_8604_951b5f88f962" type="QString"/>
+      <Option name="LayerName" value="Statuses" type="QString"/>
+      <Option name="LayerProviderName" value="ogr" type="QString"/>
+      <Option name="LayerSource" value="/home/pmgreen/QField/cloud/riparian_east_botanical_survey/Statuses.gpkg|layername=Statuses" type="QString"/>
+      <Option name="NofColumns" value="1" type="int"/>
+      <Option name="OrderByValue" value="false" type="bool"/>
+      <Option name="UseCompleter" value="false" type="bool"/>
+      <Option name="Value" value="description" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_bare_ground" configurationFlags="NoFlag">
+   <editWidget type="Range">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Max" value="100" type="int"/>
+      <Option name="Min" value="0" type="int"/>
+      <Option name="Precision" value="0" type="int"/>
+      <Option name="Step" value="10" type="int"/>
+      <Option name="Style" value="Slider" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_leaf_litter" configurationFlags="NoFlag">
+   <editWidget type="Range">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNull" value="true" type="bool"/>
+      <Option name="Max" value="100" type="int"/>
+      <Option name="Min" value="0" type="int"/>
+      <Option name="Precision" value="0" type="int"/>
+      <Option name="Step" value="10" type="int"/>
+      <Option name="Style" value="Slider" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_other_cover" configurationFlags="NoFlag">
+   <editWidget type="Range">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNull" value="true" type="bool"/>
+      <Option name="Max" value="100" type="int"/>
+      <Option name="Min" value="0" type="int"/>
+      <Option name="Precision" value="0" type="int"/>
+      <Option name="Step" value="10" type="int"/>
+      <Option name="Style" value="Slider" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_plant_cover" configurationFlags="NoFlag">
+   <editWidget type="Range">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNull" value="true" type="bool"/>
+      <Option name="Max" value="100" type="int"/>
+      <Option name="Min" value="0" type="int"/>
+      <Option name="Precision" value="0" type="int"/>
+      <Option name="Step" value="10" type="int"/>
+      <Option name="Style" value="Slider" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_pressures" configurationFlags="NoFlag">
+   <editWidget type="ValueRelation">
+    <config>
+     <Option type="Map">
+      <Option name="AllowMulti" value="true" type="bool"/>
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Description" value="&quot;pressure&quot;" type="QString"/>
+      <Option name="FilterExpression" type="invalid"/>
+      <Option name="Key" value="pressure" type="QString"/>
+      <Option name="Layer" value="Pressures_50ac75a4_9156_4451_8ed0_ed4c136f0335" type="QString"/>
+      <Option name="LayerName" value="Pressures" type="QString"/>
+      <Option name="LayerProviderName" value="ogr" type="QString"/>
+      <Option name="LayerSource" value="/home/pmgreen/QField/cloud/riparian_east_botanical_survey/Pressures.gpkg|layername=Pressures" type="QString"/>
+      <Option name="NofColumns" value="1" type="int"/>
+      <Option name="OrderByValue" value="true" type="bool"/>
+      <Option name="UseCompleter" value="false" type="bool"/>
+      <Option name="Value" value="pressure" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_surveyors" configurationFlags="NoFlag">
+   <editWidget type="ValueRelation">
+    <config>
+     <Option type="Map">
+      <Option name="AllowMulti" value="true" type="bool"/>
+      <Option name="AllowNull" value="false" type="bool"/>
+      <Option name="Description" type="invalid"/>
+      <Option name="FilterExpression" type="invalid"/>
+      <Option name="Key" value="first_name" type="QString"/>
+      <Option name="Layer" value="Surveyors_272197fb_3cda_48ba_b83e_cd11122173f7" type="QString"/>
+      <Option name="LayerName" value="Surveyors" type="QString"/>
+      <Option name="LayerProviderName" value="ogr" type="QString"/>
+      <Option name="LayerSource" value="/home/pmgreen/QField/cloud/riparian_east_botanical_survey/Surveyors.gpkg|layername=Surveyors" type="QString"/>
+      <Option name="NofColumns" value="1" type="int"/>
+      <Option name="OrderByValue" value="true" type="bool"/>
+      <Option name="UseCompleter" value="false" type="bool"/>
+      <Option name="Value" value="first_name" type="QString"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_total_cover" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_notes" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_finished" configurationFlags="NoFlag">
+   <editWidget type="CheckBox">
+    <config>
+     <Option type="Map">
+      <Option name="AllowNullState" value="false" type="bool"/>
+      <Option name="CheckedState" type="invalid"/>
+      <Option name="TextDisplayMethod" value="0" type="int"/>
+      <Option name="UncheckedState" type="invalid"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Clipboard_other_surveyors" configurationFlags="NoFlag">
+   <editWidget type="TextEdit">
+    <config>
+     <Option type="Map">
+      <Option name="IsMultiline" value="false" type="bool"/>
+      <Option name="UseHtml" value="false" type="bool"/>
+     </Option>
+    </config>
+   </editWidget>
+  </field>
+ </fieldConfiguration>
+ <aliases>
+  <alias name="" index="0" field="fid"/>
+  <alias name="" index="1" field="name"/>
+  <alias name="" index="2" field="cover_estimate"/>
+  <alias name="" index="3" field="date"/>
+  <alias name="" index="4" field="planted"/>
+  <alias name="" index="5" field="blooms"/>
+  <alias name="" index="6" field="saplings"/>
+  <alias name="" index="7" field="survey_uuid"/>
+  <alias name="" index="8" field="scientific_name"/>
+  <alias name="unsure (verify later)" index="9" field="unsure"/>
+  <alias name="" index="10" field="photo"/>
+  <alias name="" index="11" field="note"/>
+  <alias name="" index="12" field="fruits"/>
+  <alias name="" index="13" field="seeds"/>
+  <alias name="" index="14" field="stump_sprout"/>
+  <alias name="" index="15" field="stem_count"/>
+  <alias name="" index="16" field="plant_status"/>
+  <alias name="" index="17" field="Clipboard_transect"/>
+  <alias name="" index="18" field="Clipboard_subplot"/>
+  <alias name="" index="19" field="Clipboard_status"/>
+  <alias name="" index="20" field="Clipboard_bare_ground"/>
+  <alias name="" index="21" field="Clipboard_leaf_litter"/>
+  <alias name="" index="22" field="Clipboard_other_cover"/>
+  <alias name="" index="23" field="Clipboard_plant_cover"/>
+  <alias name="" index="24" field="Clipboard_pressures"/>
+  <alias name="" index="25" field="Clipboard_surveyors"/>
+  <alias name="Total cover" index="26" field="Clipboard_total_cover"/>
+  <alias name="" index="27" field="Clipboard_notes"/>
+  <alias name="Finished for today" index="28" field="Clipboard_finished"/>
+  <alias name="Other surveyors" index="29" field="Clipboard_other_surveyors"/>
+ </aliases>
+ <splitPolicies>
+  <policy policy="Duplicate" field="fid"/>
+  <policy policy="Duplicate" field="name"/>
+  <policy policy="Duplicate" field="cover_estimate"/>
+  <policy policy="Duplicate" field="date"/>
+  <policy policy="Duplicate" field="planted"/>
+  <policy policy="Duplicate" field="blooms"/>
+  <policy policy="Duplicate" field="saplings"/>
+  <policy policy="Duplicate" field="survey_uuid"/>
+  <policy policy="Duplicate" field="scientific_name"/>
+  <policy policy="Duplicate" field="unsure"/>
+  <policy policy="Duplicate" field="photo"/>
+  <policy policy="Duplicate" field="note"/>
+  <policy policy="Duplicate" field="fruits"/>
+  <policy policy="Duplicate" field="seeds"/>
+  <policy policy="Duplicate" field="stump_sprout"/>
+  <policy policy="Duplicate" field="stem_count"/>
+  <policy policy="Duplicate" field="plant_status"/>
+  <policy policy="DefaultValue" field="Clipboard_transect"/>
+  <policy policy="DefaultValue" field="Clipboard_subplot"/>
+  <policy policy="DefaultValue" field="Clipboard_status"/>
+  <policy policy="DefaultValue" field="Clipboard_bare_ground"/>
+  <policy policy="DefaultValue" field="Clipboard_leaf_litter"/>
+  <policy policy="DefaultValue" field="Clipboard_other_cover"/>
+  <policy policy="DefaultValue" field="Clipboard_plant_cover"/>
+  <policy policy="DefaultValue" field="Clipboard_pressures"/>
+  <policy policy="DefaultValue" field="Clipboard_surveyors"/>
+  <policy policy="DefaultValue" field="Clipboard_total_cover"/>
+  <policy policy="DefaultValue" field="Clipboard_notes"/>
+  <policy policy="DefaultValue" field="Clipboard_finished"/>
+  <policy policy="DefaultValue" field="Clipboard_other_surveyors"/>
+ </splitPolicies>
+ <duplicatePolicies>
+  <policy policy="Duplicate" field="fid"/>
+  <policy policy="Duplicate" field="name"/>
+  <policy policy="Duplicate" field="cover_estimate"/>
+  <policy policy="Duplicate" field="date"/>
+  <policy policy="Duplicate" field="planted"/>
+  <policy policy="Duplicate" field="blooms"/>
+  <policy policy="Duplicate" field="saplings"/>
+  <policy policy="Duplicate" field="survey_uuid"/>
+  <policy policy="Duplicate" field="scientific_name"/>
+  <policy policy="Duplicate" field="unsure"/>
+  <policy policy="Duplicate" field="photo"/>
+  <policy policy="Duplicate" field="note"/>
+  <policy policy="Duplicate" field="fruits"/>
+  <policy policy="Duplicate" field="seeds"/>
+  <policy policy="Duplicate" field="stump_sprout"/>
+  <policy policy="Duplicate" field="stem_count"/>
+  <policy policy="Duplicate" field="plant_status"/>
+  <policy policy="Duplicate" field="Clipboard_transect"/>
+  <policy policy="Duplicate" field="Clipboard_subplot"/>
+  <policy policy="Duplicate" field="Clipboard_status"/>
+  <policy policy="Duplicate" field="Clipboard_bare_ground"/>
+  <policy policy="Duplicate" field="Clipboard_leaf_litter"/>
+  <policy policy="Duplicate" field="Clipboard_other_cover"/>
+  <policy policy="Duplicate" field="Clipboard_plant_cover"/>
+  <policy policy="Duplicate" field="Clipboard_pressures"/>
+  <policy policy="Duplicate" field="Clipboard_surveyors"/>
+  <policy policy="Duplicate" field="Clipboard_total_cover"/>
+  <policy policy="Duplicate" field="Clipboard_notes"/>
+  <policy policy="Duplicate" field="Clipboard_finished"/>
+  <policy policy="Duplicate" field="Clipboard_other_surveyors"/>
+ </duplicatePolicies>
+ <defaults>
+  <default applyOnUpdate="0" field="fid" expression=""/>
+  <default applyOnUpdate="1" field="name" expression=" &quot;scientific_name&quot;"/>
+  <default applyOnUpdate="0" field="cover_estimate" expression=""/>
+  <default applyOnUpdate="0" field="date" expression="now()"/>
+  <default applyOnUpdate="0" field="planted" expression="False"/>
+  <default applyOnUpdate="0" field="blooms" expression=""/>
+  <default applyOnUpdate="0" field="saplings" expression="False"/>
+  <default applyOnUpdate="0" field="survey_uuid" expression=""/>
+  <default applyOnUpdate="1" field="scientific_name" expression="&quot;name&quot;"/>
+  <default applyOnUpdate="0" field="unsure" expression=""/>
+  <default applyOnUpdate="0" field="photo" expression=""/>
+  <default applyOnUpdate="0" field="note" expression=""/>
+  <default applyOnUpdate="0" field="fruits" expression=""/>
+  <default applyOnUpdate="0" field="seeds" expression=""/>
+  <default applyOnUpdate="0" field="stump_sprout" expression=""/>
+  <default applyOnUpdate="0" field="stem_count" expression=""/>
+  <default applyOnUpdate="0" field="plant_status" expression="2"/>
+  <default applyOnUpdate="1" field="Clipboard_transect" expression="array_to_string(overlay_intersects('Subplots_3ab55db1_56c1_4c32_88fc_dec47c3f036a', transect ))"/>
+  <default applyOnUpdate="1" field="Clipboard_subplot" expression="overlay_intersects('Subplots_3ab55db1_56c1_4c32_88fc_dec47c3f036a', subplot )[0]"/>
+  <default applyOnUpdate="1" field="Clipboard_status" expression="array_to_string(overlay_intersects('Subplots',status))"/>
+  <default applyOnUpdate="0" field="Clipboard_bare_ground" expression=" 0"/>
+  <default applyOnUpdate="0" field="Clipboard_leaf_litter" expression="0"/>
+  <default applyOnUpdate="0" field="Clipboard_other_cover" expression="0"/>
+  <default applyOnUpdate="1" field="Clipboard_plant_cover" expression="aggregate(layer:='Species',aggregate:='sum',expression:=&quot;cover_estimate&quot;,filter:=&quot;survey_uuid&quot;=attribute(@parent,'survey_uuid') and format_date(&quot;date&quot;,'yyyy-MM-dd') = format_date(attribute(@parent,'date'),'yyyy-MM-dd'))"/>
+  <default applyOnUpdate="0" field="Clipboard_pressures" expression=""/>
+  <default applyOnUpdate="0" field="Clipboard_surveyors" expression=""/>
+  <default applyOnUpdate="1" field="Clipboard_total_cover" expression="&quot;leaf_litter&quot; +  &quot;other_cover&quot; + &quot;plant_cover&quot; + &quot;bare_ground&quot; "/>
+  <default applyOnUpdate="0" field="Clipboard_notes" expression=""/>
+  <default applyOnUpdate="1" field="Clipboard_finished" expression="current_value(finished)"/>
+  <default applyOnUpdate="0" field="Clipboard_other_surveyors" expression=""/>
+ </defaults>
+ <constraints>
+  <constraint field="fid" constraints="7" exp_strength="1" unique_strength="1" notnull_strength="1"/>
+  <constraint field="name" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="cover_estimate" constraints="7" exp_strength="2" unique_strength="0" notnull_strength="0"/>
+  <constraint field="date" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="planted" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="blooms" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="saplings" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="survey_uuid" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="scientific_name" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="unsure" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="photo" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="note" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="fruits" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="seeds" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="stump_sprout" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="stem_count" constraints="7" exp_strength="1" unique_strength="0" notnull_strength="1"/>
+  <constraint field="plant_status" constraints="7" exp_strength="1" unique_strength="0" notnull_strength="1"/>
+  <constraint field="Clipboard_transect" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_subplot" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_status" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_bare_ground" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_leaf_litter" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_other_cover" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_plant_cover" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_pressures" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_surveyors" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_total_cover" constraints="7" exp_strength="1" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_notes" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_finished" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+  <constraint field="Clipboard_other_surveyors" constraints="0" exp_strength="0" unique_strength="0" notnull_strength="0"/>
+ </constraints>
+ <constraintExpressions>
+  <constraint field="fid" desc="" exp=""/>
+  <constraint field="name" desc="" exp=""/>
+  <constraint field="cover_estimate" desc="" exp=" &quot;cover_estimate&quot; > 0"/>
+  <constraint field="date" desc="" exp=""/>
+  <constraint field="planted" desc="" exp=""/>
+  <constraint field="blooms" desc="" exp=""/>
+  <constraint field="saplings" desc="" exp=""/>
+  <constraint field="survey_uuid" desc="" exp=""/>
+  <constraint field="scientific_name" desc="" exp=""/>
+  <constraint field="unsure" desc="" exp=""/>
+  <constraint field="photo" desc="" exp=""/>
+  <constraint field="note" desc="" exp=""/>
+  <constraint field="fruits" desc="" exp=""/>
+  <constraint field="seeds" desc="" exp=""/>
+  <constraint field="stump_sprout" desc="" exp=""/>
+  <constraint field="stem_count" desc="" exp=""/>
+  <constraint field="plant_status" desc="" exp=""/>
+  <constraint field="Clipboard_transect" desc="" exp=""/>
+  <constraint field="Clipboard_subplot" desc="" exp=""/>
+  <constraint field="Clipboard_status" desc="" exp=""/>
+  <constraint field="Clipboard_bare_ground" desc="" exp=""/>
+  <constraint field="Clipboard_leaf_litter" desc="" exp=""/>
+  <constraint field="Clipboard_other_cover" desc="" exp=""/>
+  <constraint field="Clipboard_plant_cover" desc="" exp=""/>
+  <constraint field="Clipboard_pressures" desc="" exp=""/>
+  <constraint field="Clipboard_surveyors" desc="" exp=""/>
+  <constraint field="Clipboard_total_cover" desc="" exp=" &quot;total_cover&quot; = 100"/>
+  <constraint field="Clipboard_notes" desc="" exp=""/>
+  <constraint field="Clipboard_finished" desc="" exp=""/>
+  <constraint field="Clipboard_other_surveyors" desc="" exp=""/>
+ </constraintExpressions>
+ <expressionfields/>
+ <attributeactions/>
+ <attributetableconfig sortExpression="&quot;date&quot;" sortOrder="1" actionWidgetStyle="dropDown">
+  <columns>
+   <column name="fid" width="-1" hidden="0" type="field"/>
+   <column name="name" width="-1" hidden="0" type="field"/>
+   <column name="cover_estimate" width="-1" hidden="0" type="field"/>
+   <column name="date" width="-1" hidden="0" type="field"/>
+   <column name="planted" width="-1" hidden="0" type="field"/>
+   <column name="blooms" width="-1" hidden="0" type="field"/>
+   <column name="saplings" width="-1" hidden="0" type="field"/>
+   <column name="survey_uuid" width="-1" hidden="0" type="field"/>
+   <column name="scientific_name" width="-1" hidden="0" type="field"/>
+   <column name="unsure" width="-1" hidden="0" type="field"/>
+   <column name="photo" width="-1" hidden="0" type="field"/>
+   <column name="note" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_transect" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_subplot" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_status" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_bare_ground" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_leaf_litter" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_other_cover" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_plant_cover" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_pressures" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_surveyors" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_total_cover" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_notes" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_finished" width="-1" hidden="0" type="field"/>
+   <column name="Clipboard_other_surveyors" width="-1" hidden="0" type="field"/>
+   <column name="fruits" width="-1" hidden="0" type="field"/>
+   <column name="seeds" width="-1" hidden="0" type="field"/>
+   <column name="stump_sprout" width="-1" hidden="0" type="field"/>
+   <column name="stem_count" width="-1" hidden="0" type="field"/>
+   <column name="plant_status" width="-1" hidden="0" type="field"/>
+   <column width="-1" hidden="1" type="actions"/>
+  </columns>
+ </attributetableconfig>
+ <conditionalstyles>
+  <rowstyles/>
+  <fieldstyles/>
+ </conditionalstyles>
+ <storedexpressions/>
+ <editform tolerant="1"></editform>
+ <editforminit/>
+ <editforminitcodesource>0</editforminitcodesource>
+ <editforminitfilepath></editforminitfilepath>
+ <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+    geom = feature.geometry()
+    control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+ <featformsuppress>0</featformsuppress>
+ <editorlayout>tablayout</editorlayout>
+ <attributeEditorForm>
+  <labelStyle overrideLabelColor="0" labelColor="" overrideLabelFont="0">
+   <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+  </labelStyle>
+  <attributeEditorField name="name" showLabel="1" index="1" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorField name="scientific_name" showLabel="1" index="8" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorContainer name="" visibilityExpression="" showLabel="0" visibilityExpressionEnabled="0" columnCount="1" collapsed="0" collapsedExpression="" horizontalStretch="0" groupBox="0" collapsedExpressionEnabled="0" type="Row" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+   <attributeEditorField name="unsure" showLabel="1" index="9" horizontalStretch="0" verticalStretch="0">
+    <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+     <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+    </labelStyle>
+   </attributeEditorField>
+   <attributeEditorField name="note" showLabel="1" index="11" horizontalStretch="0" verticalStretch="0">
+    <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+     <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+    </labelStyle>
+   </attributeEditorField>
+  </attributeEditorContainer>
+  <attributeEditorField name="cover_estimate" showLabel="1" index="2" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorField name="planted" showLabel="1" index="4" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorContainer name="" visibilityExpression="planted=TRUE" showLabel="0" visibilityExpressionEnabled="1" columnCount="1" collapsed="0" collapsedExpression="" horizontalStretch="0" groupBox="0" collapsedExpressionEnabled="0" type="Row" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+   <attributeEditorField name="plant_status" showLabel="1" index="16" horizontalStretch="0" verticalStretch="0">
+    <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+     <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+    </labelStyle>
+   </attributeEditorField>
+  </attributeEditorContainer>
+  <attributeEditorField name="blooms" showLabel="1" index="5" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorField name="fruits" showLabel="1" index="12" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorField name="seeds" showLabel="1" index="13" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorField name="saplings" showLabel="1" index="6" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorContainer name="" visibilityExpression="saplings=TRUE" showLabel="0" visibilityExpressionEnabled="1" columnCount="1" collapsed="0" collapsedExpression="" horizontalStretch="0" groupBox="0" collapsedExpressionEnabled="0" type="Row" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+   <attributeEditorField name="stem_count" showLabel="1" index="15" horizontalStretch="0" verticalStretch="0">
+    <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+     <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+    </labelStyle>
+   </attributeEditorField>
+  </attributeEditorContainer>
+  <attributeEditorField name="stump_sprout" showLabel="1" index="14" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+  <attributeEditorField name="photo" showLabel="1" index="10" horizontalStretch="0" verticalStretch="0">
+   <labelStyle overrideLabelColor="0" labelColor="0,0,0,255,rgb:0,0,0,1" overrideLabelFont="0">
+    <labelFont style="" underline="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" italic="0" bold="0" strikethrough="0"/>
+   </labelStyle>
+  </attributeEditorField>
+ </attributeEditorForm>
+ <editable>
+  <field name="Clipboard_bare_ground" editable="0"/>
+  <field name="Clipboard_date" editable="0"/>
+  <field name="Clipboard_finished" editable="0"/>
+  <field name="Clipboard_leaf_litter" editable="0"/>
+  <field name="Clipboard_notes" editable="0"/>
+  <field name="Clipboard_other_cover" editable="0"/>
+  <field name="Clipboard_other_surveyors" editable="0"/>
+  <field name="Clipboard_plant_cover" editable="0"/>
+  <field name="Clipboard_pressures" editable="0"/>
+  <field name="Clipboard_status" editable="0"/>
+  <field name="Clipboard_subplot" editable="0"/>
+  <field name="Clipboard_surveyors" editable="0"/>
+  <field name="Clipboard_total_cover" editable="0"/>
+  <field name="Clipboard_transect" editable="0"/>
+  <field name="blooms" editable="1"/>
+  <field name="cover_estimate" editable="1"/>
+  <field name="date" editable="0"/>
+  <field name="fid" editable="1"/>
+  <field name="fruits" editable="1"/>
+  <field name="name" editable="1"/>
+  <field name="note" editable="1"/>
+  <field name="photo" editable="1"/>
+  <field name="plant_status" editable="1"/>
+  <field name="planted" editable="1"/>
+  <field name="planted_status" editable="1"/>
+  <field name="saplings" editable="1"/>
+  <field name="scientific_name" editable="1"/>
+  <field name="seeds" editable="1"/>
+  <field name="stem_count" editable="1"/>
+  <field name="stump_sprout" editable="1"/>
+  <field name="subplot" editable="1"/>
+  <field name="survey_uuid" editable="0"/>
+  <field name="transect" editable="1"/>
+  <field name="unsure" editable="1"/>
+ </editable>
+ <labelOnTop>
+  <field name="Clipboard_bare_ground" labelOnTop="0"/>
+  <field name="Clipboard_date" labelOnTop="0"/>
+  <field name="Clipboard_finished" labelOnTop="0"/>
+  <field name="Clipboard_leaf_litter" labelOnTop="0"/>
+  <field name="Clipboard_notes" labelOnTop="0"/>
+  <field name="Clipboard_other_cover" labelOnTop="0"/>
+  <field name="Clipboard_other_surveyors" labelOnTop="0"/>
+  <field name="Clipboard_plant_cover" labelOnTop="0"/>
+  <field name="Clipboard_pressures" labelOnTop="0"/>
+  <field name="Clipboard_status" labelOnTop="0"/>
+  <field name="Clipboard_subplot" labelOnTop="0"/>
+  <field name="Clipboard_surveyors" labelOnTop="0"/>
+  <field name="Clipboard_total_cover" labelOnTop="0"/>
+  <field name="Clipboard_transect" labelOnTop="0"/>
+  <field name="blooms" labelOnTop="0"/>
+  <field name="cover_estimate" labelOnTop="0"/>
+  <field name="date" labelOnTop="0"/>
+  <field name="fid" labelOnTop="0"/>
+  <field name="fruits" labelOnTop="0"/>
+  <field name="name" labelOnTop="0"/>
+  <field name="note" labelOnTop="0"/>
+  <field name="photo" labelOnTop="0"/>
+  <field name="plant_status" labelOnTop="0"/>
+  <field name="planted" labelOnTop="0"/>
+  <field name="planted_status" labelOnTop="0"/>
+  <field name="saplings" labelOnTop="0"/>
+  <field name="scientific_name" labelOnTop="0"/>
+  <field name="seeds" labelOnTop="0"/>
+  <field name="stem_count" labelOnTop="0"/>
+  <field name="stump_sprout" labelOnTop="0"/>
+  <field name="subplot" labelOnTop="0"/>
+  <field name="survey_uuid" labelOnTop="0"/>
+  <field name="transect" labelOnTop="0"/>
+  <field name="unsure" labelOnTop="0"/>
+ </labelOnTop>
+ <reuseLastValue>
+  <field name="Clipboard_bare_ground" reuseLastValue="0"/>
+  <field name="Clipboard_date" reuseLastValue="0"/>
+  <field name="Clipboard_finished" reuseLastValue="0"/>
+  <field name="Clipboard_leaf_litter" reuseLastValue="0"/>
+  <field name="Clipboard_notes" reuseLastValue="0"/>
+  <field name="Clipboard_other_cover" reuseLastValue="0"/>
+  <field name="Clipboard_other_surveyors" reuseLastValue="0"/>
+  <field name="Clipboard_plant_cover" reuseLastValue="0"/>
+  <field name="Clipboard_pressures" reuseLastValue="0"/>
+  <field name="Clipboard_status" reuseLastValue="0"/>
+  <field name="Clipboard_subplot" reuseLastValue="0"/>
+  <field name="Clipboard_surveyors" reuseLastValue="0"/>
+  <field name="Clipboard_total_cover" reuseLastValue="0"/>
+  <field name="Clipboard_transect" reuseLastValue="0"/>
+  <field name="blooms" reuseLastValue="0"/>
+  <field name="cover_estimate" reuseLastValue="0"/>
+  <field name="date" reuseLastValue="0"/>
+  <field name="fid" reuseLastValue="0"/>
+  <field name="fruits" reuseLastValue="0"/>
+  <field name="name" reuseLastValue="0"/>
+  <field name="note" reuseLastValue="0"/>
+  <field name="photo" reuseLastValue="0"/>
+  <field name="plant_status" reuseLastValue="0"/>
+  <field name="planted" reuseLastValue="0"/>
+  <field name="planted_status" reuseLastValue="0"/>
+  <field name="saplings" reuseLastValue="0"/>
+  <field name="scientific_name" reuseLastValue="0"/>
+  <field name="seeds" reuseLastValue="0"/>
+  <field name="stem_count" reuseLastValue="0"/>
+  <field name="stump_sprout" reuseLastValue="0"/>
+  <field name="subplot" reuseLastValue="0"/>
+  <field name="survey_uuid" reuseLastValue="0"/>
+  <field name="transect" reuseLastValue="0"/>
+  <field name="unsure" reuseLastValue="0"/>
+ </reuseLastValue>
+ <dataDefinedFieldProperties/>
+ <widgets/>
+ <previewExpression>COALESCE(if(date=format_date(now(),'yyyy-MM-dd'), substr(represent_value("name"),1,20) || '  ' || cover_estimate || '%', note ), date || ': ' || name || ': ' || cover_estimate|| '%' )</previewExpression>
+ <mapTip enabled="1"></mapTip>
+ <layerGeometryType>4</layerGeometryType>
+</qgis>
+Ú¶<?xml version="1.0" encoding="UTF-8"?>
+<StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc" xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.1.0/StyledLayerDescriptor.xsd" xmlns:se="http://www.opengis.net/se" version="1.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <NamedLayer/>
+</StyledLayerDescriptor>
+Ã·Fri May 2 01:00:21 2025 À³2025-05-02T05:00:21
