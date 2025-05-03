@@ -1,0 +1,1 @@
+Pilot project using [QField](https://qfield.org/) and [QGIS](https://qgis.org/) as a way to facilitate seasonal botanical inventories of the "[Riparian East](https://www.fopos.org/riparian-restoration-project)" restoration area, by [Friends of Princeton Open Space](https://www.fopos.org/) in Princeton, NJ. This is a [Kart](https://kartproject.org/) repository. 
