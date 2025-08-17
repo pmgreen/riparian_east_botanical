@@ -1,4 +1,4 @@
-# FOPOS Riparian East (Botanical)
+# FOPOS Riparian East Botanical
 
 A pilot project using open-source GIS tools [QField](https://qfield.org/) and [QGIS](https://qgis.org/) conceived of to help facilitate botanical inventories of the "[Riparian East](https://www.fopos.org/riparian-restoration-project)" restoration area, by [Friends of Princeton Open Space](https://www.fopos.org/) (FOPOS) in Princeton, NJ.
 
