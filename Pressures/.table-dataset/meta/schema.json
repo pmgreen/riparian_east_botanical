@@ -1,1 +1,0 @@
-[{"id": "942c0150-a4ff-7722-4eb3-5d0a2d070fab", "name": "fid", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "55ef05fd-168f-eeaf-4f70-39b12e4c288e", "name": "uuid", "dataType": "text"}, {"id": "3bacf3a6-d3ac-30af-9209-8aefb8098d0c", "name": "pressure", "dataType": "text"}]
