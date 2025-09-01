@@ -13,6 +13,6 @@ This is a [Kart](https://kartproject.org/) repository, with version control of g
 - [Kart documentation](https://docs.kartproject.org/en/latest/)
 
 ***
-This project was conducted as part of a [Rutgers Environmental Stewards](https://envirostewards.rutgers.edu/) certification project.
+<!-- This project was conducted as part of a [Rutgers Environmental Stewards](https://envirostewards.rutgers.edu/) certification project.
 <img width="30%" align="left" alt="RUESNJAES_H_RED_BLACK_RGB" src="https://github.com/user-attachments/assets/14a2e5f2-5bdb-4aa2-8ac4-33199d91b2f8" />
-<img width="15%" align="right" alt="FOPOS bw horiz" src="https://github.com/user-attachments/assets/aa207b05-f183-4d2e-a38f-b893461c0a3e" />
+<img width="15%" align="right" alt="FOPOS bw horiz" src="https://github.com/user-attachments/assets/aa207b05-f183-4d2e-a38f-b893461c0a3e" /> -->
