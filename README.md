@@ -14,6 +14,4 @@ This is a [Kart](https://kartproject.org/) repository, with version control of g
 
 ***
 This project was conducted as part of a [Rutgers Environmental Stewards](https://envirostewards.rutgers.edu/) certification project.
-
-<img width="30%" alt="RUESNJAES_H_RED_BLACK_RGB" src="https://github.com/user-attachments/assets/14a2e5f2-5bdb-4aa2-8ac4-33199d91b2f8" />
-
+<img width="30%" align="right" alt="RUESNJAES_H_RED_BLACK_RGB" src="https://github.com/user-attachments/assets/14a2e5f2-5bdb-4aa2-8ac4-33199d91b2f8" />
