@@ -1,12 +1,8 @@
 # Riparian East Botanical
 
-A pilot project using free and open-source GIS tools to help facilitate botanical inventories in the "[Riparian East](https://www.fopos.org/riparian-restoration-project)" restoration area by [Friends of Princeton Open Space](https://www.fopos.org/) (FOPOS) in Princeton, NJ. 
+A pilot project using free and open-source GIS tools to help facilitate botanical inventories in the "[Riparian East](https://www.fopos.org/riparian-restoration-project)" restoration area by [Friends of Princeton Open Space](https://www.fopos.org/) (FOPOS) in Princeton, NJ. For details (screnshots, etc.) see [the wiki](https://github.com/pmgreen/riparian_east_botanical/wiki). The companion forest inventory project is [here](https://github.com/pmgreen/forest_inventory).  
 
-For details (screnshots, etc.) see [the wiki](https://github.com/pmgreen/riparian_east_botanical/wiki).
-
-The companion forest inventory project is [here](https://github.com/pmgreen/forest_inventory).  
-
-This is a [Kart](https://kartproject.org/) repository, with version control of geospatial data. This opens it up for collaboration. To check it out, follow this [quick start](https://docs.kartproject.org/en/latest/pages/quick_guide.html#quick-guide) guide to install Kart and then either use the [QGIS Kart plugin](https://plugins.qgis.org/plugins/kart/) or the command line to clone this repo. (For GIS nerds: it's essentially GPKG based.)  
+**For GIS nerds:** This is a [Kart](https://kartproject.org/) repository, enabling version control of geospatial data, which opens the project up for collaboration. To check it out, follow this [quick start](https://docs.kartproject.org/en/latest/pages/quick_guide.html#quick-guide) guide to install Kart and then either use the [QGIS Kart plugin](https://plugins.qgis.org/plugins/kart/) or the command line to clone this repo. It's essentially GPKG based.
 
 #### Helpful references:
 - [Clone existing repositories](https://docs.kartproject.org/en/latest/pages/commands/kart_clone.html#clone-existing-repositories)
